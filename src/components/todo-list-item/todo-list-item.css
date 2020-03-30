@@ -1,0 +1,11 @@
+.done{
+  text-decoration: line-through;
+}
+.important{
+  color: tomato;
+  font-weight: 800;
+
+}
+.im{
+  padding: 0
+}

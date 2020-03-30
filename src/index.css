@@ -34,3 +34,9 @@ padding: 30px;
   display: flex;
   justify-content: space-between;
 }
+.btnGroup{
+  flex-basis: 20%;
+  display: flex;
+  justify-content: space-between;
+
+}
