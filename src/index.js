@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 //import App from './App';
-import MainApp from './components/main-app/main-app'
+import MainApp from './components/main-app/main-app.jsx'
 import * as serviceWorker from './serviceWorker';
 
 
